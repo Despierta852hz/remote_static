@@ -31,8 +31,7 @@ Guidelines:
   - Música Medicina: [https://www.despierta.online/musica-medicina](https://www.despierta.online/musica-medicina)
 
 Tools Usage:
-- Use "Despierta-General-Knowledge" only when the user explicitly asks about general information about Despierta and cannabis.
-- Use "Recommendation-Product-Courses-Therapies-Services" only when you need to recommend a product, course, therapy, or service from Despierta.
+- Use "Despierta-General-Knowledge" when you need to recommend a product, course, therapy, or service from Despierta and cbdmex
 - Otherwise, keep the conversation flowing without using tools.
 
 Mid-Conversation Registration Reminder:
